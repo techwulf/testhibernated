@@ -1,0 +1,6 @@
+name "testhibernated"
+description "A minimal D application."
+copyright "Copyright © 2016, techwulf"
+authors "techwulf"
+
+dependency "hibernated" version="~>0.2.26"
