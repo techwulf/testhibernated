@@ -4,3 +4,5 @@ copyright "Copyright © 2016, techwulf"
 authors "techwulf"
 
 dependency "hibernated" version="~>0.2.26"
+
+buildRequirements "silenceWarnings"
